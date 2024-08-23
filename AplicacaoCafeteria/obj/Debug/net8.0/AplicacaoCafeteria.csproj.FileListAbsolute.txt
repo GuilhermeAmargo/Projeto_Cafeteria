@@ -1,0 +1,15 @@
+C:\Users\camar\OneDrive\Desktop\Projeto Cafeteria\AplicacaoCafeteria\bin\Debug\net8.0\AplicacaoCafeteria.exe
+C:\Users\camar\OneDrive\Desktop\Projeto Cafeteria\AplicacaoCafeteria\bin\Debug\net8.0\AplicacaoCafeteria.deps.json
+C:\Users\camar\OneDrive\Desktop\Projeto Cafeteria\AplicacaoCafeteria\bin\Debug\net8.0\AplicacaoCafeteria.runtimeconfig.json
+C:\Users\camar\OneDrive\Desktop\Projeto Cafeteria\AplicacaoCafeteria\bin\Debug\net8.0\AplicacaoCafeteria.dll
+C:\Users\camar\OneDrive\Desktop\Projeto Cafeteria\AplicacaoCafeteria\bin\Debug\net8.0\AplicacaoCafeteria.pdb
+C:\Users\camar\OneDrive\Desktop\Projeto Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camar\OneDrive\Desktop\Projeto Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.AssemblyInfoInputs.cache
+C:\Users\camar\OneDrive\Desktop\Projeto Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.AssemblyInfo.cs
+C:\Users\camar\OneDrive\Desktop\Projeto Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.csproj.CoreCompileInputs.cache
+C:\Users\camar\OneDrive\Desktop\Projeto Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.dll
+C:\Users\camar\OneDrive\Desktop\Projeto Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\refint\AplicacaoCafeteria.dll
+C:\Users\camar\OneDrive\Desktop\Projeto Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.pdb
+C:\Users\camar\OneDrive\Desktop\Projeto Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.genruntimeconfig.cache
+C:\Users\camar\OneDrive\Desktop\Projeto Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\ref\AplicacaoCafeteria.dll
+C:\Users\camar\OneDrive\Desktop\Projeto Cafeteria\AplicacaoCafeteria\obj\Debug\net8.0\AplicacaoCafeteria.sourcelink.json
