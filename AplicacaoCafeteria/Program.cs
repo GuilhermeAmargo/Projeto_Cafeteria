@@ -18,7 +18,7 @@ public class Program
         Pedido pedido = new Pedido (1234,"João");
         pedido.AdicionarItem(bebida);
         pedido.AdicionarItem(item);
-        //pedido.RemoverItem(bebida);
+        pedido.RemoverItem(bebida);
         pedido.AdicionarItem(sobremesa);
         pedido.CalcularTotal();
         pedido.AdicionarItem(item2);
