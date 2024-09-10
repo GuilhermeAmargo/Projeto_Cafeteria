@@ -24,5 +24,6 @@ public class Program
         pedido.AdicionarItem(item2);
         pedido.AdicionarItem(item3);
         Console.WriteLine(pedido);
+
     }
 }
